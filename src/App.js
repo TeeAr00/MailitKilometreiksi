@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div id="content">
-      <h3>Mailit kilometreiksi</h3>
+      <h3>Mailit kilometreiksi.</h3>
       <form onSubmit={laske}>
         <div>
         <label>Mailit</label>
